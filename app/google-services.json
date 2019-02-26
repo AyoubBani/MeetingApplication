@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246425624752",
+    "firebase_url": "https://rencontre-6b564.firebaseio.com",
+    "project_id": "rencontre-6b564",
+    "storage_bucket": "rencontre-6b564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246425624752:android:00eac0e5eb19ce36",
+        "android_client_info": {
+          "package_name": "app.rencontre.com.rencontreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246425624752-3f1ffriis9eprbqc5403lcned6edqujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.rencontre.com.rencontreapp",
+            "certificate_hash": "af8d06893c20e92122fbbee026fc5aeca04f502b"
+          }
+        },
+        {
+          "client_id": "246425624752-qqghop6cqkpc886actf6lcjunrgjkhul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7Sp9Hk2qMehGrxrtBobFpSquaH4PbDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246425624752-qqghop6cqkpc886actf6lcjunrgjkhul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

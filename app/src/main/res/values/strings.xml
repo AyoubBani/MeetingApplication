@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RencontreApp</string>
+    <string name="acceuil">Acceuil</string>
+    <string name="message">Messages</string>
+    <string name="matches">Matches</string>
+    <string name="profile">Profile</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">2088889874688342</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2088889874688342</string>
+    <string name="title_activity_auth">Auth</string>
+    <string name="loading">Authentification</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="facebook_title_text">Facebook Login</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+
+    <string name="google_maps_key">AIzaSyCEx40IrFa7jWNNs6vvLUpgSfNoAZgGkQQ</string>
+    <string name="title_activity_del">Del</string>
+</resources>
